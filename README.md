@@ -1,2 +1,2 @@
 # EStim
-Codes for running E-Stim Device
+Models and code for manufacurting and programming Estim Device
